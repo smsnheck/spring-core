@@ -54,6 +54,8 @@ Heute **Spring-Core**
 * Tests
 * AOP mit Spring
 
++++
+
 Morgen **Einsatzszenarien**
 * Persistenz
 * Transaktionen
