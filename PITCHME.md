@@ -72,6 +72,8 @@ Morgen **Einsatzszenarien**
     - WebServices (JMS)
     - ...
 
++++
+
 Wir sind nicht die einzige Schulung: 
 * Advanced Spring
 * Spring Boot
